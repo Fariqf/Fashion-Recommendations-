@@ -1,0 +1,7 @@
+tensorflow 
+streamlit
+cv2
+pillow
+pandas
+watchdog
+sci-kit learn
